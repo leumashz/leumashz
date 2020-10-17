@@ -1,4 +1,4 @@
-### Hi there Samuel Garcia aka as leumashz 👋
+### Hi there, leumashz 👋
 
 🔭 I’m currently working on my portfolio, I'm in the design step (comming soon to samuelgz.com) 
 
