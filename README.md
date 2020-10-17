@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there Samuel Garcia aka as leumashz 👋
+
+🔭 I’m currently working on my portfolio, I'm in the design step (comming soon to samuelgz.com) 
+🌱 I’m currently learning some about databases
+👯 I’m looking to collaborate on Javascript, React and VueJs projects 
+📫 How to reach me, I'm @leumashz in twitter
 
 <!--
 **leumashz/leumashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
