@@ -1,6 +1,6 @@
 ### Hi there, leumashz 👋
 
-🔭 I’m currently working on my portfolio (Working on other proyects 😅
+🔭 I’m currently working on my portfolio (Working on other proyects 😅 )
 
 🌱 I’m currently learning some about databases
 
